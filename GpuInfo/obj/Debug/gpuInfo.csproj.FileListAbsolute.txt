@@ -1,0 +1,8 @@
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\bin\Debug\gpuInfo.exe.config
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\bin\Debug\gpuInfo.exe
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\bin\Debug\gpuInfo.pdb
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\obj\Debug\gpuInfo.csproj.AssemblyReference.cache
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\obj\Debug\gpuInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\obj\Debug\gpuInfo.csproj.CoreCompileInputs.cache
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\obj\Debug\gpuInfo.exe
+C:\Users\Sanjib\Documents\CSharp\gpuInfo\obj\Debug\gpuInfo.pdb
